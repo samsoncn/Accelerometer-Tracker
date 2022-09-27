@@ -9,7 +9,9 @@ import SwiftUI
 
 @main
 struct Accelerometer_TrackerApp: App {
+
     var body: some Scene {
+
         WindowGroup {
             ContentView()
         }
